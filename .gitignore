@@ -1,0 +1,4 @@
+echo "backend/distilbert_results/
+backend/distilbert_trained_model/
+backend/venv/
+backend/database/mental_health_app.db" >> .gitignore
